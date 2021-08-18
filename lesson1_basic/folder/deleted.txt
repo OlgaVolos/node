@@ -1,0 +1,3 @@
+hellonew hello
+new hello
+text data with promise
